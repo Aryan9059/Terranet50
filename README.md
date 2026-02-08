@@ -47,7 +47,7 @@ Off-road segmentation is critical for autonomous navigation and robotics—where
 
 ## Files included
 
-- `notebook.ipynb`: Contains all code for data loading, preprocessing, model training, evaluation, and mask-to-RLE conversion.
+- `final_notebook.ipynb`: Contains all code for data loading, preprocessing, model training, evaluation, and mask-to-RLE conversion.
 - `final_model.keras`: Trained model weights for reproducibility.
 - `submission.csv`: Final RLE-encoded binary mask predictions for the test set.
 ---
